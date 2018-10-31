@@ -1,2 +1,0 @@
-Boo-Print Compressor Challenge 
-
